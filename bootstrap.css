@@ -333,6 +333,7 @@ progress {
   vertical-align: baseline;
 }
 
+
 [type="number"]::-webkit-inner-spin-button,
 [type="number"]::-webkit-outer-spin-button {
   height: auto;
@@ -658,6 +659,66 @@ div.displayed{
     height: 14vh; 
 
 }
+  
+  
+  
+  #imagensnav {
+  width: 2vw;
+  height: 4vh;}
+
+/* Fade facebook */
+.hvr-fade-logofa {
+  width: 2vw;
+  height: 4vh;
+  border-radius: 100%;
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  overflow: hidden;
+  background-color: #fff;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: color, background-color;
+  transition-property: color, background-color;
+}
+.hvr-fade-logofa:hover, .hvr-fade-logofa:focus, .hvr-fade-logofa:active {
+  background-color: #2098D1;
+  color: white;
+}
+.hvr-fade-logoins {
+  width: 2vw;
+  height: 4vh;
+  border-radius: 75%;
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  overflow: hidden;
+  background-color: #fff;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: color, background-color;
+  transition-property: color, background-color;
+}
+.hvr-fade-logoins:hover, .hvr-fade-logoins:focus, .hvr-fade-logoins:active {
+  background-color: #993399;
+  color: white;
+}
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
 #numnav{
