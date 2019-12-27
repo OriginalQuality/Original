@@ -640,7 +640,7 @@ div.displayed{
 
 
 
-@media(min-width: 1385px){
+@media(min-width: 995px){
 .content{
   overflow :hidden;
   height: 86vh;
