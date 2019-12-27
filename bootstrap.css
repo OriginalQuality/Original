@@ -704,7 +704,8 @@ height: 100px;
 }
 #col-4-third-footer{
   font-size: 8px;
-  padding-top: hidden;
+  padding-top: 0;
+  bottom:14px;
 }
 
 #redes{
