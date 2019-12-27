@@ -53,8 +53,10 @@ html {
   opacity: 0.5;
 }
 
-#cortexto p{
-  opacity: 1.0;
+label {
+    display: inline-block;
+    margin-bottom: 0.5rem;
+    font-size: 20px;
 }
 
 
@@ -643,7 +645,12 @@ div.displayed{
   overflow :hidden;
   height: 86vh;
 }
-
+#locali{
+  
+  width:0;
+  height:0;
+  
+  }
 #footer {
     background-color: #494440;
     color: #fff;
