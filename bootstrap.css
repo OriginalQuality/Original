@@ -49,6 +49,7 @@ html {
 }
 #cortexto p{
    background-color: #fff;
+  width:200px;
 }
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
