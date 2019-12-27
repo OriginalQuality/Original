@@ -47,10 +47,10 @@ html {
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
-#cortexto p{
+#cortexto {
    background-color: #494440;
   color:#fff;
-  width:200px;
+  
 }
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
@@ -84,7 +84,7 @@ h1, h2, h3, h4, h5, h6 {
 
 p {
   margin-top: 0;
-  margin-bottom: 1rem;
+  margin-bottom: 0;
 }
 
 abbr[title],
