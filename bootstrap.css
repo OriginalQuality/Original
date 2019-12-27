@@ -645,7 +645,7 @@ div.displayed{
   overflow :hidden;
   height: 86vh;
 }
-#locali  a{
+#esconder{
   
   width:0;
   height:0;
@@ -684,33 +684,32 @@ div.displayed{
   }
 
 a#imgroda img{
-width: 80px;
-height: 100px;
+width: 6vw;
+height: 12vh;
 }
 
 #redessociaise{
-  visibility: hidden;
-}
+  visibility: hidden;}
 
-#locali{
-  visibility: hidden;
-  width:0px;
-  height: 0px;
-}
+
+
+
+
+
 #col-4-second-footer{
   font-size:20px;
   padding-left: 30px;
   border-bottom:0;
 }
 #col-4-third-footer{
-  font-size: 11px;
+  font-size: 1vw;
   padding-top: 0;
-  bottom:14px;
+
 }
 
 #redes{
   margin-bottom: 0px;
-  size:20px;
+  font-size: 1.5vw; 
 }
 
 .contentquemsomos{
