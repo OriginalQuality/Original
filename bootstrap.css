@@ -658,6 +658,10 @@ div.displayed{
     height: 14vh; 
 
 }
+  
+  
+#numnav{
+  font-size:1vw;}
 
 .w-100 {
   width: 100% !important;
