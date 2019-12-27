@@ -50,8 +50,16 @@ html {
 #cortexto {
    background-color: #494440;
   color:#fff;
-  opacity: 0.2;
+  opacity: 0.5;
 }
+
+#cortexto p{
+  opacity: 1.0;
+}
+
+
+
+
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
