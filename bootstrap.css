@@ -645,7 +645,7 @@ div.displayed{
   overflow :hidden;
   height: 86vh;
 }
-#locali{
+#locali  a{
   
   width:0;
   height:0;
