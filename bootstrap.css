@@ -668,6 +668,11 @@ div.displayed{
   height: 71vh;
   display: block;
 }
+  
+  a#imgcima img{
+width: 6vw;
+height: 12vh;
+}
 
   .navbar-expand-lg {
     -ms-flex-flow: row nowrap;
