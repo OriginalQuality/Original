@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Original Quality - Insumos</title>
+
+    <!-- Bootstrap CSS CDN -->
+    <link rel="stylesheet" href=" https://originalquality.github.io/Original/bootstrap.css" >
+    <!-- Our Custom CSS -->
+    <link rel="stylesheet" href=" https://originalquality.github.io/Original/style3.css">
+    <link rel="stylesheet" type="text/css" href=" https://originalquality.github.io/Original/hover.css">
+    <!-- Scrollbar Custom CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css">
+
+    <!-- Font Awesome JS -->
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/solid.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js" integrity="sha384-6OIrr52G08NpOFSZdxxz1xdNSndlD4vdcf/q2myIUVO0VsqaGHJsB0RaBE01VTOY" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+<div class="wrapper">
+        <!-- Sidebar  -->
+ <nav id="sidebar">
+            <div id="dismiss">
+                <i class="fas fa-arrow-left"></i>
+            </div>
+
+            <div class="sidebar-header">
+                <h3>Original Quality</h3>
+            </div>
+
+            <ul class="list-unstyled components">
+                <p>Informações</p>
+                <li class="active">
+                    <a href="https://originalquality.github.io/Original/index.html"  data-toggle="collapse" aria-expanded="false">Home</a>
+                </li>
+                <li>
+                    <a href="https://originalquality.github.io/Original/quemsomos.html"  class="hvr-underline-from-center-DROP">Quem somos</a>
+                    <!-- Sidebar 
+                    <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false" class="hvr-underline-from-center-DROP">Pages</a>
+                     
+                    <ul class="collapse list-unstyled" id="pageSubmenu">
+                        <li>
+                            <a href="#">Page 1</a>
+                        </li>
+                        <li>
+                            <a href="#">Page 2</a>
+                        </li>
+                        <li>
+                            <a href="#">Page 3</a>
+                        </li>
+                    </ul>-->
+                </li>
+                <li>
+                    <a href="#" class="hvr-underline-from-center-DROP">Produtos</a>
+                </li>
+                <li>
+                    <a href="#" class="hvr-underline-from-center-DROP">Contato</a>
+                </li>
+            </ul>
+
+
+        </nav>
+
+        <!-- Page Content  -->
+        <div id="content">
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <div class="container-fluid">
+
+                    <button type="button" id="sidebarCollapse" class="btn2 btn-info2">
+                        
+                        <span><img src="https://originalquality.github.io/Original/testespan.png"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        
+                        <ul class="nav navbar-nav">
+                            <li class="nav-item active">
+                                    
+                                        <a class="nav-link hvr-underline-from-center hvr-float" href="https://originalquality.github.io/Original/index.html" id=""><p style="color:black;" id="redes">Inicio
+                                            </p></a>
+                                    
+                            </li>
+                            
+                            
+                            
+                            <li class="nav-item">
+                                    
+                                        <a class="nav-link hvr-underline-from-center hvr-float" href="https://originalquality.github.io/Original/quemsomos.html" id=""><p style="color:black;" id="redes">Quem somos
+                                            </p></a>
+                                    
+                            </li>
+
+
+
+
+                            <li class="nav-item active">
+                                    <div>
+                                        <a class="nav-link hvr-underline-from-center hvr-float" href="#" id=""><p style="color:black;" id="redes">Produtos</p>
+                                        </a>
+                                    </div>
+                            </li>
+
+
+                            <li class="nav-item active">
+                                    <div>
+                                        <a class="nav-link hvr-underline-from-center hvr-float" href="#" id=""><p style="color:black;" id="redes">Contato
+                                        </p></a>
+                                    </div>
+                            </li>
+
+                        </ul>
+                    </div>                    
+                        
+                        <div class="nav-item">
+                    <ul class="nav navbar-nav ml-auto">
+                            
+                            <li class="nav-item active">
+                                    <div>
+                                        <a href="#" style="color: black; font-size:20px;" id="numnav"><p style="color:black;" id="redes">55 (11) 5611-4336</p></a>
+                                    </div>
+                            </li>
+                    </ul>
+                    </div>
+                         <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="nav navbar-nav ml-auto">
+                            
+                            
+                            
+                            
+                            
+                            <li class="nav-item active">
+                                    <div class="hvr-fade-logofa">
+                                        <a href="https://www.linkedin.com/authwall?trk=gf&trkInfo=AQGSALKt32_0EQAAAW9n0b_I_pebmNXmDu602clQPc_bHxzyr4_-eU1ESYrcZj6i29n6eZpmo7yuETdCreg9_7GZyzOl9NDFUsqYsxX2-JXhO3zJ4hHcJk3_tMmhtMlRppNzkHI=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2FOriginalQuality" target="_blank"><img src="https://gugarga49.github.io/meucss/link.png" alt="Rede Social Linkedin!" onmouseover="this.src='https://gugarga49.github.io/meucss/linkpress.png'" onmouseout="this.src='https://gugarga49.github.io/meucss/link.png'" id="imagensnav">
+                                        </a>
+                                    </div>
+                            </li>
+                            <li class="nav-item">
+                                    <div class="hvr-fade-logoins">
+                                        <a href="https://www.instagram.com/originalquality_1" target="_blank"><img src="https://gugarga49.github.io/meucss/insta.png" alt="Rede Social Facebook!" onmouseover="this.src='https://gugarga49.github.io/meucss/instapress.png'" onmouseout="this.src='https://gugarga49.github.io/meucss/insta.png'" id="imagensnav">
+                                        </a>
+                                    </div>
+                            </li>
+                            <li class="nav-item">
+                                    <div class="hvr-fade-logofa">
+                                        <a href="https://www.facebook.com/OriginalQualityCSS" target="_blank"><img src="https://gugarga49.github.io/meucss/facebook.png" alt="Rede Social Facebook!" onmouseover="this.src='https://gugarga49.github.io/meucss/facepress.png'" onmouseout="this.src='https://gugarga49.github.io/meucss/facebook.png'" id="imagensnav">
+                                        </a>
+                                    </div>
+                            </li>
+                           <li class="nav-item">
+                                    <div>
+                                        <img src="https://originalquality.github.io/Original/espa.png" width="32px" height="32px">
+                                        
+                                    </div>
+                            </li>
+                            
+                           <li class="nav-item active">
+                               <div style="width:15px;"></div>     
+                               <div class="hvr-fade">
+                                        <a href="#" id=""><img src="https://gugarga49.github.io/imagens/BandeiraBR.bmp" alt="Bandeira Brasil!" id="imagensnav">
+                                        </a>
+                                    </div>
+                            </li>
+                            
+                            
+                           <li class="nav-item">
+                                    <div>
+                                        <img src="https://originalquality.github.io/Original/espa.png" id="imagensnav">
+                                        
+                                    </div>
+                            </li>
+                            
+                           <li class="nav-item active">
+                               <div style="width:5px;"></div>  
+                               <div class="hvr-fade">
+                                        <a href="#" id=""><img src="https://gugarga49.github.io/imagens/auto.jpg" alt="Bandeira Brasil!" id="imagensnav">
+                                        </a>
+                                    </div>
+                            </li>                           
+                        </ul>
+                    </div>
+                    
+                   <ul class="nav justify-content-end">
+                            <li>
+                                 <a class="nav-link active" href="#" id="imgroda">  <img src="https://gugarga49.github.io/meucss/LTOQ_682_1033.png" class="img-responsive" id="imgrodape" alt="..." height="100px" width="70px">
+                                 </a>
+                             </li>
+                        </ul>
+           
+            </div></nav>
+
+
+
+          <div class="card" style="max-width: 100vw;">
+  <div class="row no-gutters">
+    <div class="col-md-6">
+      <iframe class="card-img" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58460.1018522277!2d-46.690180847052844!3d-23.684669198373413!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce4fe52a977263%3A0x305b1e91be6e0cef!2sAv.%20Nossa%20Sra.%20de%20Sabar%C3%A1%2C%203701%20-%20Vila%20Emir%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2004447-020!5e0!3m2!1spt-BR!2sbr!4v1576508529479!5m2!1spt-BR!2sbr" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+    </div>
+    <div class="col-md-6">
+      <div class="card-body">
+        <h3 class="card-title"  style="font-size: 2vw;">Original Quality</h3>
+        <h5 class="card-title"  style="font-size: 1.5vw;">Qualidade requer ser Original!</h5>
+
+
+        <p class="card-text"  style="font-size: 1.3vw;">Se Reiventando e inovando a cada dia seu
+portfólio, com seus novos  produtos para
+atender o mercado com excelência sempre.</p>
+
+
+        <h5 class="card-title" style="font-size: 1.5vw;">☞ Endereço: </h5>
+        <p class="card-text"  style="font-size: 1.3vw;">Av. Nossa Senhora do Sabará, 3701 Unidades 05/06
+Cep:04447-020 - Vila Emir
+São Paulo - SP - Brasil</p>
+
+
+        <h5 class="card-title" style="font-size: 1.5vw;">☏ Telefone: </h5>
+        <p class="card-text"  style="font-size: 1.3vw;">(11) 5611-4336</p>
+
+
+        <h5 class="card-title" style="font-size: 1.5vw;">✉ Email: </h5>
+        <p class="card-text"  style="font-size: 1.3vw;">contato@oqcss.com</p>
+        <a href="https://gugarga49.github.io/meusite2/fale-conosco.html">
+        <img href="https://gugarga49.github.io/meusite2/fale-conosco.html" src="https://gugarga49.github.io/meucss/contato.jpg" height="52px" width="42px">
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+ <div class="row " id="footer">
+    <div class="col-md-4  displayed" id="col-4-first-footer">
+            <a class="nav-link active" id="imgroda" href="#"><img src="https://gugarga49.github.io/meucss/logoroda.png"  height="160px" width="120px" class="img-responsive" id="imgrodape" alt="...">
+            </a>
+    </div>
+    
+    <div class="col-md-4" id="col-4-second-footer">
+                <div class="displayed"><p id="redes">Telefone:<p id="redes" style="color: #fff;">(11) 5611-4336</p></p></div>
+                <div  class="displayed">
+               
+                </div>         
+    </div>
+        <div class="col-md-4 container-md " id="col-4-third-footer">
+                      <div class="displayed"><label style="size:20px" id="redes">Endereço: </label></div>
+                                <div class="displayed" id="esconder" >
+                                        <div class="displayed">
+                                            <a href="https://www.facebook.com/OriginalQualityCSS" ><img src="https://gugarga49.github.io/meucss/loca.png" alt="Rede Social Facebook!"  id="locali" width="32px" height="32px">
+                                            </a>
+                                        </div>
+                                </div><div class="displayed" style="size:17px" >Av. Nossa Sra. de Sabará, 3701 - Jardim Palmares (Zona Sul), <br>São Paulo - SP, 04447-020</div>
+
+        
+  
+        </div>
+
+
+
+    </div>
+
+
+
+
+
+
+            
+        </div>
+    </div>
+
+
+    <div class="overlay"></div>
+
+    <!-- jQuery CDN - Slim version (=without AJAX) -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <!-- Popper.JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+    <!-- Bootstrap JS -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
+    <!-- jQuery Custom Scroller CDN -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#sidebar").mCustomScrollbar({
+                theme: "minimal"
+            });
+
+            $('#dismiss, .overlay').on('click', function () {
+                $('#sidebar').removeClass('active');
+                $('.overlay').removeClass('active');
+            });
+
+            $('#sidebarCollapse').on('click', function () {
+                $('#sidebar').addClass('active');
+                $('.overlay').addClass('active');
+                $('.collapse.in').toggleClass('in');
+                $('a[aria-expanded=true]').attr('aria-expanded', 'false');
+            });
+        });
+    </script>
+</body>
+</html>
