@@ -637,7 +637,9 @@ div.displayed{
 }
 
 
-
+  #imagensnav {
+  width: 2vw;
+  height: 4vh;}
 
 
 
@@ -662,9 +664,7 @@ div.displayed{
   
   
   
-  #imagensnav {
-  width: 2vw;
-  height: 4vh;}
+
 
 /* Fade facebook */
 .hvr-fade-logofa {
