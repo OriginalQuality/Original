@@ -814,6 +814,8 @@ height: 12vh;
 .no-gutters {
   margin-right: 0;
   margin-left: 0;
+  margin-bottom: 0;
+  height:72vh;
 }
 
 .no-gutters > .col,
