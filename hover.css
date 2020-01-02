@@ -1208,8 +1208,8 @@
 
 /* Fade facebook */
 .hvr-fade-logofa {
-  width: 32px;
-  height: 32px;
+  width: 2vw;
+  height: 4vh;
   border-radius: 100%;
   display: inline-block;
   vertical-align: middle;
@@ -1253,8 +1253,8 @@
 
 /* Fade instagram */
 .hvr-fade-logoins {
-  width: 34px;
-  height: 34px;
+  width: 2vw;
+  height: 4vh;
   border-radius: 75%;
   display: inline-block;
   vertical-align: middle;
