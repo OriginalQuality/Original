@@ -203,11 +203,11 @@
     <div class="col-md-6">
       <div class="card-body">
         <h3 class="card-title" style="font-size: 1.5vw;"><center>@ E - mail</center></h3>
-        <form >
+        <form action="ValidaEnviaEmaiIV.asp" method="post" name="FREMail" id="FREMail">
   <div class="form-row">
     <div class="col-md-6 mb-3">
       <label for="validationDefault01" style="font-size: 1.5vw;"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/bust-in-silhouette_1f464.png" width="20px" height="20px" > Nome</label>
-      <input type="text" class="form-control" id="validationDefault01" placeholder="Ex.: Mark" required="">
+      <input type="text" name="Solicitante" class="form-control" id="validationDefault01" placeholder="Ex.: Mark" required="">
     </div>
     <div class="col-md-6 mb-3">
       <label for="validationDefault02" style="font-size: 1.5vw;">Sobrenome</label>
@@ -217,27 +217,31 @@
 
 
         <label for="validationDefault02" style="font-size: 1.5vw;"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/whatsapp/238/telephone-receiver_1f4de.png" width="20ox" height="20px" > Telefone</label>
-      <input type="number" class="form-control" id="validatipxDefault02" placeholder="(12)34567891" required="">
+      <input name="Telefone" type="number" class="form-control" id="validatipxDefault02" placeholder="(12)34567891" required="">
 
         <label for="validationDefaultUsername" style="font-size: 1.5vw;"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/whatsapp/238/e-mail-symbol_1f4e7.png" width="20px" height="20px" > Email</label>
       <div class="input-group">
         <div class="input-group-prepend">
           <span class="input-group-text" id="inputGroupPrepend2">@</span>
         </div>
-        <input type="text" class="form-control" id="validationDefaultUsername" aria-describedby="inputGroupPrepend2" required="">
+        <input name="Email" type="text" class="form-control" id="validationDefaultUsername" aria-describedby="inputGroupPrepend2" required="">
       </div>
 
         <label for="validationDefault02" style="font-size: 1.5vw;"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/223/speaking-head-in-silhouette_1f5e3.png" width="20ox" height="20px" > Assunto / Titulo</label>
-      <input type="text" class="form-control" id="validatipxDefault02" placeholder="Ex.: Compra de produtos" required="">
+      <input type="text" name="Assunto" class="form-control" id="validatipxDefault02" placeholder="Ex.: Compra de produtos" required="">
 
     <div class="mb-3">
     <label for="validationTextarea" style="font-size: 1.5vw;"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/ledger_1f4d2.png" width="20px" height="20px" > Mensagem: </label>
-    <textarea class="form-control" id="validationTextarea" placeholder="Gostaria de tratar sobre assunto x" required=""></textarea>
+    <textarea class="form-control" name="Descricao" id="validationTextarea" placeholder="Gostaria de tratar sobre assunto x" required=""></textarea>
     <div class="invalid-feedback">
       Por favor, digite uma mensagem na caixa de texto.
     </div>
   </div>
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/inbox-tray_1f4e5.png" widht="20px" height="20px"> - <input type="submit" name="enviar" value="Enviar">
+  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/inbox-tray_1f4e5.png" widht="20px" height="20px"> - <div align="center">
+								<input name="BTEnviar" type="submit" id="BTEnviar" tabindex="1105" value="Enviar" style="font-size:14px;width:60px;height:25px;font-style:italic;font-weight:bold; float:left; margin-left:40%" onclick="window.location='ValidaEnviaEmaiIV.asp'"/>
+								<input name="BTLimpar" type="reset"  id="BTLimpar" tabindex="1106" value="Limpar" style="font-size:14px; width:60px; height:25px; font-style:italic;font-weight:bold; float:left; margin-left:1%" onClick="SetFocus('Solicitante')"/>
+								<input name="BTVoltar" type="button" id="BTVoltar" tabindex="1107" value="Voltar" style="font-size:14px; width:60px; height:25px; font-style:italic;font-weight:bold; float:left; margin-left:1%" onClick="history.go(-1)">
+                            </div>
 
 </form>
       </div>
